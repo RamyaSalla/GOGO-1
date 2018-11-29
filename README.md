@@ -2,7 +2,7 @@
 GOGO-1
  # Frame work
  
- 	 Main/java is where different folders are created for the project.
+ 	 Main/java is where different folders are created for the project.()
  
   		com.qa.base : would have all the methods and variables defined for complete projects.
 	
