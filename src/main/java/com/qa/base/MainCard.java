@@ -1,7 +1,4 @@
 // This Package would have all the Basic functionality of the business
-// git commit
-//CHnage sadfaasfaf
-//sadadsadsadadasdsadasads
 package com.qa.base;
 import com.qa.util.ConfigValues;
 
