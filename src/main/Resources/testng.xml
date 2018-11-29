@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="GOGO Application test suite" >
+  <test name="GOGO TEST">
+    <classes>
+      <class name="GOGO.GOGO.TestCase1"></class>
+    <class name="GOGO.GOGO.TestCase2"></class>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

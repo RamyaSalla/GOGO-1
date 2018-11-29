@@ -7,6 +7,7 @@ public class TestCase1 {
 		
 		MainCard obj = new MainCard();
 		obj.shuffle();
-		obj.RemoveCard();		
+		obj.RemoveCard();	
+		obj.display();
 	}
 }

@@ -13,7 +13,8 @@ public class MainCard {
    public MainCard() throws Exception
     {
 	    ConfigValues obj1 = new ConfigValues();
-		int Count=obj1.CardRemove();
+	    int Count = obj1.TotalCards();
+		//int Count=obj1.CardRemove();
 		deckSize=new int[Count];		
 		b= obj1.getValue("Card");
     }
