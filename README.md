@@ -1,5 +1,5 @@
 # GOGO-1
-GOGO-1
+GOGO-1 Demo
  # Frame work
  
  	 Main/java is where different folders are created for the project.()
